@@ -1,0 +1,14 @@
+{
+  "people": {
+    "age": 48,
+    "firstName": "Joe",
+    "lastName": "satriani",
+    "occupation": "musician",
+    "pets": false,
+    "stuff": [
+      "a",
+      "b",
+      "c"
+    ]
+  }
+}

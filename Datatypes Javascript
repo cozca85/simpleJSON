@@ -1,0 +1,11 @@
+Datatypes Javascript
+
+string --> "" or ''
+
+boolean --> true or false
+
+int or integer --> 1,2,3,etc
+
+array -> [ 'hello', 1234, true, { 'name' : 'Jason'} ]
+
+object --> { key:value }
